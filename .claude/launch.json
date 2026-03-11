@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "rako-dev",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8090", "-d", "/Users/domu/Desktop/demo-rako-reality"],
+      "port": 8090
+    }
+  ]
+}
